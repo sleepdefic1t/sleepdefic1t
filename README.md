@@ -28,7 +28,7 @@ Hello! I'm a crypto dev and technical writer. When I'm not busy programming micr
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right: 10px; margin-top: 5px;" />
 <img align="left" alt="Raspberry Pi" width="20px" src="https://static.cdnlogo.com/logos/r/98/raspberry-pi.svg" style="padding-right: 10px; margin-top: 5px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right: 10px; margin-top: 5px;" />
-<img align="left" alt="Solidity" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/solidity/solidity-original.svg" style="padding-right: 18px; margin-left: -8px; margin-top: 6px; background-color: white; -webkit-mask: url(https://raw.githubusercontent.com/devicons/devicon/develop/icons/solidity/solidity-original.svg) no-repeat center; mask: url(https://raw.githubusercontent.com/devicons/devicon/develop/icons/solidity/solidity-original.svg) no-repeat center;" />
+<img align="left" alt="Solidity" width="26px" src="./icons/solidity-original.svg" style="padding-right: 10px; margin-top: 5px;" />
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="padding-right: 10px; margin-top: 5px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right: 10px; margin-top: 5px;" />
 
