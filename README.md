@@ -42,6 +42,4 @@ Hello! I'm a crypto dev and technical writer. When I'm not busy programming micr
 
 ---
 
-<div style="text-align: center;">
-    We are the music makers, the dreamers of dreams...
-</div>
+We are the music makers, the dreamers of dreams...
