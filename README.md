@@ -5,7 +5,7 @@ Hello! I'm a crypto dev and technical writer. When I'm not busy programming micr
 
 - 🌱 I’m currently learning Solidity + React
 - 👯 I’m looking to collaborate on web3 Tech
-- 💬 Ask me about or Music
+- 💬 Ask me about Crypto or Music
 - 📫 How to reach me: <a href="mailto:sleepdeficit@protonmail.com">sleepdeficit@protonmail.com</a>
 - ⚡ Fun fact: Murphy's Law states that the best way to get the right answer on the web is to post the wrong answer
 
