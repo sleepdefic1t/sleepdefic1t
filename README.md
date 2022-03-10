@@ -18,7 +18,7 @@ Hello! I'm a crypto dev and technical writer. When I'm not busy programming micr
 
 ### Languages and Tools:
 
-<div style="align-content:left;">
+<div style="align-content: left;">
     <img alt="Arduino" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" style="padding-right: 10px; margin-top: 5px;" />
     <img alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="padding-right: 10px; margin-top: 5px;" />
     <img alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="padding-right: 10px; margin-top: 5px;" />
@@ -36,10 +36,12 @@ Hello! I'm a crypto dev and technical writer. When I'm not busy programming micr
 
 ### Git Stats:
 
-<div style="align-content:center;">
+<div style="align-content: center;">
     <img alt="sleepdefic1t's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sleepdefic1t&show_icons=true&hide_border=false&title_color=30CFD0&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </div>
 
 ---
 
-We are the music makers, the dreamers of dreams...
+<div style="text-align: center;">
+    We are the music makers, the dreamers of dreams...
+</div>
