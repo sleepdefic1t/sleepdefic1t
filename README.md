@@ -1,7 +1,5 @@
 
 # Hello 👋
-
-<img src="https://gateway.pinata.cloud/ipfs/Qmcdtiqgd8RLkrbhRDsQbdQDPMu9EsKnYE6Y5JFsZPUGQY" alt="sleepdeficit's IRL pfp" width="75px" >
         
 Hello! I'm a crypto dev and technical writer. When I'm not busy programming microcontrollers, documenting Blockchain software, and saving the world from centralization, I enjoy creating music and exploring the latest technological trends.
 
