@@ -1,7 +1,7 @@
 
 # Hello 👋
 
-Hello! I'm a crypto dev and technical writer. When I'm not busy programming microcontrollers, documenting Blockchain software, and saving the world from centralization, I enjoy creating music and exploring the latest technological trends.
+I'm a crypto dev and technical writer. When I'm not busy programming microcontrollers, documenting Blockchain software, and saving the world from centralization, I enjoy creating music and exploring the latest technological trends.
 
 - 🌱 I’m currently learning Solidity + React
 - 👯 I’m looking to collaborate on web3 Tech
