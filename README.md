@@ -26,6 +26,7 @@ Hello! I'm a crypto dev and technical writer. When I'm not busy programming micr
     <img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right: 10px; margin-top: 5px;" />
     <img alt="Hardhat" width="26px" src="https://c.gitcoin.co/grants/32b6fabb70180e949a0490be4d9f1a2d/Hardhat-color-logotype-vertical.svg" style="padding-right: 10px; margin-top: 5px;" />
     <img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right: 10px; margin-top: 5px;" />
+    <img alt="PlatformIO" width="26px" src="https://raw.githubusercontent.com/platformio/platformio-vscode-ide/69bfc19bae633213c6d5455b47cb22efb2dcfed4/resources/platformio-logo.png" style="padding-right: 10px; margin-top: 5px;" />
     <img alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right: 10px; margin-top: 5px;" />
     <img alt="Raspberry Pi" width="20px" src="https://static.cdnlogo.com/logos/r/98/raspberry-pi.svg" style="padding-right: 10px; margin-top: 5px;" />
     <img alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right: 10px; margin-top: 5px;" />
