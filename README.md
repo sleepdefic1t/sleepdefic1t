@@ -36,8 +36,8 @@ Hello! I'm a crypto dev and technical writer. When I'm not busy programming micr
 
 ### Git Stats:
 
-<img alt="sleepdefic1t's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sleepdefic1t&show_icons=true&hide_border=false&title_color=30CFD0&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-<img  alt="sleepdefic1t's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepdefic1t&langs_count=8&hide=perl,perl%206&layout=compact&theme=dark" />
+<img alt="sleepdefic1t's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sleepdefic1t&hide_title=true&show_icons=true&hide_border=false&title_color=30CFD0&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img  alt="sleepdefic1t's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepdefic1t&hide_title=true&langs_count=8&hide=perl,perl%206&layout=compact&hide_border=false&title_color=30CFD0&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 ---
 
