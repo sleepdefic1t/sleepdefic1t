@@ -1,6 +1,6 @@
 
 # Hello 👋
-        
+
 Hello! I'm a crypto dev and technical writer. When I'm not busy programming microcontrollers, documenting Blockchain software, and saving the world from centralization, I enjoy creating music and exploring the latest technological trends.
 
 - 🌱 I’m currently learning Solidity + React
@@ -36,10 +36,11 @@ Hello! I'm a crypto dev and technical writer. When I'm not busy programming micr
 
 ### Git Stats:
 
-<div style="align-content: center;">
-    <img alt="sleepdefic1t's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sleepdefic1t&show_icons=true&hide_border=false&title_color=30CFD0&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-</div>
+<img alt="sleepdefic1t's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sleepdefic1t&show_icons=true&hide_border=false&title_color=30CFD0&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img  alt="sleepdefic1t's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepdefic1t&langs_count=8&hide=perl,perl%206&layout=compact&theme=dark" />
 
 ---
 
-We are the music makers, the dreamers of dreams...
+<div align="center">
+    We are the music makers, the dreamers of dreams...
+</div>
