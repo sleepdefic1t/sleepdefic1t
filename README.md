@@ -19,20 +19,20 @@ I'm a crypto dev and technical writer. When I'm not busy programming microcontro
 ### Languages and Tools:
 
 <div style="align-content: left;">
-    <img alt="Arduino" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" style="padding-right: 10px; margin-top: 5px;" />
-    <img alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="padding-right: 10px; margin-top: 5px;" />
-    <img alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="padding-right: 10px; margin-top: 5px;" />
-    <img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right: 10px; margin-top: 5px;" />
-    <img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right: 10px; margin-top: 5px;" />
-    <img alt="Hardhat" width="26px" src="https://c.gitcoin.co/grants/32b6fabb70180e949a0490be4d9f1a2d/Hardhat-color-logotype-vertical.svg" style="padding-right: 10px; margin-top: 5px;" />
-    <img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right: 10px; margin-top: 5px;" />
-    <img alt="PlatformIO" width="26px" src="https://raw.githubusercontent.com/platformio/platformio-vscode-ide/69bfc19bae633213c6d5455b47cb22efb2dcfed4/resources/platformio-logo.png" style="padding-right: 10px; margin-top: 5px;" />
-    <img alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right: 10px; margin-top: 5px;" />
-    <img alt="Raspberry Pi" width="20px" src="https://static.cdnlogo.com/logos/r/98/raspberry-pi.svg" style="padding-right: 10px; margin-top: 5px;" />
-    <img alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right: 10px; margin-top: 5px;" />
-    <img alt="Solidity" width="26px" src="./icons/solidity-original.svg" style="padding-right: 10px; margin-top: 5px;" />
-    <img alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="padding-right: 10px; margin-top: 5px;" />
-    <img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right: 10px; margin-top: 5px;" />
+    <img alt="Arduino" height="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" style="padding-right: 10px; margin-top: 5px;" />
+    <img alt="C" height="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="padding-right: 10px; margin-top: 5px;" />
+    <img alt="C++" height="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="padding-right: 10px; margin-top: 5px;" />
+    <img alt="CSS3" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right: 10px; margin-top: 5px;" />
+    <img alt="GitHub" height="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right: 10px; margin-top: 5px;" />
+    <img alt="Hardhat" height="26px" src="https://c.gitcoin.co/grants/32b6fabb70180e949a0490be4d9f1a2d/Hardhat-color-logotype-vertical.svg" style="padding-right: 10px; margin-top: 5px;" />
+    <img alt="HTML5" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right: 10px; margin-top: 5px;" />
+    <img alt="PlatformIO" height="26px" src="https://raw.githubusercontent.com/platformio/platformio-vscode-ide/69bfc19bae633213c6d5455b47cb22efb2dcfed4/resources/platformio-logo.png" style="padding-right: 10px; margin-top: 5px;" />
+    <img alt="Python" height="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right: 10px; margin-top: 5px;" />
+    <img alt="Raspberry Pi" height="26px" src="https://static.cdnlogo.com/logos/r/98/raspberry-pi.svg" style="padding-right: 10px; margin-top: 5px;" />
+    <img alt="React" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right: 10px; margin-top: 5px;" />
+    <img alt="Solidity" height="26px" src="./icons/solidity-original.svg" style="padding-right: 10px; margin-top: 5px;" />
+    <img alt="TypeScript" height="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="padding-right: 10px; margin-top: 5px;" />
+    <img alt="Visual Studio Code" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right: 10px; margin-top: 5px;" />
 </div>
 
 ### Git Stats:
