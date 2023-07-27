@@ -3,7 +3,7 @@
 
 I'm a crypto dev and technical writer. When I'm not busy programming microcontrollers, documenting Blockchain software, and saving the world from centralization, I enjoy creating music and exploring the latest technological trends.
 
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning about the Ethereum Virtual Machine
 - 🌎 I’m looking to network
 - 💬 Ask me about Crypto or Music
 - 📫 How to reach me: <a href="mailto:sl33p.eth@pm.me">sl33p.eth@pm.me</a>
