@@ -24,7 +24,7 @@ I'm a crypto dev and technical writer. When I'm not busy programming microcontro
     <img alt="CSS3" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right: 10px;" />
     <img alt="GitHub" height="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right: 10px;" />
     <img alt="Go" width="42px" valign="-8px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" style="padding-right: 10px;" />
-    <img alt="Hardhat" height="26px" valign="-2" src="https://c.gitcoin.co/grants/32b6fabb70180e949a0490be4d9f1a2d/Hardhat-color-logotype-vertical.svg" style="padding-right: 10px;" />
+    <img alt="Hardhat" height="26px" src="https://raw.githubusercontent.com/NomicFoundation/hardhat/main/docs/public/favicon.ico" style="padding-right: 10px;" />
     <img alt="HTML5" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right: 10px;" />
     <img alt="PlatformIO" height="26px" src="https://raw.githubusercontent.com/platformio/platformio-vscode-ide/69bfc19bae633213c6d5455b47cb22efb2dcfed4/resources/platformio-logo.png" style="padding-right: 10px;" />
     <img alt="Python" height="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right: 10px;" />
