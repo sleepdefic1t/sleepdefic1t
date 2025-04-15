@@ -3,10 +3,10 @@
 
 I'm a crypto dev and technical writer. When I'm not busy programming microcontrollers, documenting Blockchain software, and saving the world from centralization, I enjoy creating music and exploring the latest technological trends.
 
-- 🌱 I’m currently learning about BLS12-381
+<!--- 🌱 I’m currently learning about BLS12-381
 - 🌎 I’m looking to network
 - 💬 Ask me about Crypto or Music
-- 📫 How to reach me: <a href="mailto:sl33p.eth@pm.me">sl33p.eth@pm.me</a>
+- 📫 How to reach me: <a href="mailto:sl33p.eth@pm.me">sl33p.eth@pm.me</a> -->
 - ⚡ Fun fact: *Brandolini's law*, also known as the bullshit asymmetry principle, is an internet adage that emphasizes the effort of debunking misinformation, in comparison to the relative ease of creating it in the first place. It states that "The amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it." - *<a href="https://wikipedia.org/wiki/Brandolini's_law" target="_blank" rel="noopener noreferrer">wiki</a>*
 
 ### Links:
